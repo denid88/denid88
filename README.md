@@ -1,4 +1,4 @@
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Hi there 👋 
 
@@ -6,9 +6,9 @@ I'm a passionate developer ![Ukraine Flag](https://img.shields.io/badge/From-Ukr
 
 ## 🌱 What I'm currently learning
 
-- Continuing to deepen my knowledge of the Flutter framework, focusing on improving app quality and performance.
-- Taking steps to master backend development with Node.js.
-- Delving deeper into iOS development.
+- Continuing to deepen my knowledge of the Flutter framework, focusing on improving app quality and performance. ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
+- Taking steps to master backend development with Node.js. ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- Delving deeper into iOS development. [![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)](https://swift.org)
 
 ## 🚀 My favorite Projects
 Here are some of the projects I've worked on:
