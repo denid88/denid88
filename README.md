@@ -6,8 +6,8 @@ I'm a passionate developer ![Ukraine Flag](https://img.shields.io/badge/From-Ukr
 
 ## 🌱 What I'm currently learning
 
-- Continuing to deepen my knowledge of the Flutter framework, focusing on improving app quality and performance. ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
-- Taking steps to master backend development with Node.js. ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- Continuing to deepen my knowledge of the Flutter framework, focusing on improving app quality and performance. [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)(https://flutter.dev/)]
+- Taking steps to master backend development with Node.js. [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)(https://nodejs.org/en)]
 - Delving deeper into iOS development. [![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)](https://swift.org)
 
 ## 🚀 My favorite Projects
