@@ -1,5 +1,3 @@
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
 ## Hi there 👋 
 
 I'm a passionate developer ![Ukraine Flag](https://img.shields.io/badge/From-Ukraine-0057B7?style=flat&logo=ukraine&logoColor=white), with a strong interest in building high-quality applications. My expertise spans across Flutter Framework & Node.js
