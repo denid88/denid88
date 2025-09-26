@@ -10,12 +10,15 @@ I'm a passionate developer ![Ukraine Flag](https://img.shields.io/badge/From-Ukr
 
 ## 🚀 My favorite Projects
 Here are some of the projects I've worked on:
+### MealMate - AI Nutrition Track
+MealMate AI makes it easy to stay on top of your diet and monitor your progress:
+- **Food Recognition**: Snap a photo of your meal, and the app will instantly analyze it and calculate the calories.
+- **Upload from Library**: Select food photos from your gallery for precise calorie tracking.
+- **Manual Logging**: Add meals manually for complete control.
+- **Custom Goals**: Set daily calorie targets tailored to your needs.
+- **Weight Tracking**: Log your current weight and monitor your progress toward your goals.
 
-### Totalfit
-Totalfit is a groundbreaking fitness app that helps you achieve optimal health by training your body, mind, and spirit. With a unique hexagon system, it keeps you focused on key areas, ensuring a balanced approach to fitness and well-being. Choose from a variety of workouts, whether at home, outdoors, or in the gym, and track your progress across emotional, physical, and spiritual dimensions. Totalfit is your 24/7 personal trainer, guiding you to a healthier, happier life.
-
-[![Download on the App Store](https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/totalfit-workouts-wellness/id1525120077)
-[![Get it on Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.totalfit.mobile.android)
+[![Download on the App Store](https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/mealmate-ai-nutrition-track/id6680196823)
 
 ## 💬 Let's Connect
 
