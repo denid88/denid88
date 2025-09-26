@@ -10,7 +10,7 @@ I'm a passionate developer ![Ukraine Flag](https://img.shields.io/badge/From-Ukr
 
 ## 🚀 My favorite Projects
 Here are some of the projects I've worked on:
-### MealMate - AI Nutrition Track
+### MealMate - AI Nutrition Track 
 MealMate AI makes it easy to stay on top of your diet and monitor your progress:
 - **Food Recognition**: Snap a photo of your meal, and the app will instantly analyze it and calculate the calories.
 - **Upload from Library**: Select food photos from your gallery for precise calorie tracking.
