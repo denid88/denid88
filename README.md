@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I'm a passionate developer ![Ukraine Flag](https://img.shields.io/badge/From-Ukraine-0057B7?style=flat&logo=ukraine&logoColor=white), with a strong interest in building high-quality applications. My expertise spans across Flutter Framework & Node.js
+I'm a passionate developer ![Ukraine Flag](https://img.shields.io/badge/From-Ukraine-0057B7?style=flat&logo=ukraine&logoColor=white), with a strong interest in building high-quality applications.
 
 ## 🌱 What I'm currently learning
 
