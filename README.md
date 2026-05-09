@@ -4,8 +4,8 @@ I'm a passionate developer ![Ukraine Flag](https://img.shields.io/badge/From-Ukr
 - Continuing to deepen my knowledge of the Flutter framework, focusing on improving app quality and performance. [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/)
 - Delving deeper into iOS development. [![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)](https://swift.org)
 - Exploring backend development with Node.js. [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
-## 🚀 My favorite Projects
-Here are some of the projects I've worked on:
+## 🚀 Featured Projects
+Here are some of the projects I've built and shipped:
 ### MealMate - AI Nutrition Track 
 MealMate AI makes it easy to stay on top of your diet and monitor your progress:
 - **Food Recognition**: Snap a photo of your meal, and the app will instantly analyze it and calculate the calories.
